@@ -10,3 +10,5 @@ mac_hdd.img
 *.smd
 *.dmg
 OVMF_VARS-1024x768.fd
+OpenCore-BS/EFI/.DS_Store
+OpenCore-BS/EFI/OC/.DS_Store
